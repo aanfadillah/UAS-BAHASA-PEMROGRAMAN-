@@ -6,5 +6,11 @@
 # Repository ini dibuat sebagai project UAS BAHASA PEMROGRAMAN SEMESTER 
 ## PAKET & MODUL
 
-Saya diberi tugas UAS ini dengan struktur sebagai berikut :
+Saya diberi tugas UAS ini dengan struktur sebagai berikut : 
+
+
+
+
+
+# Untuk penjelasan program berupa PDF silahkan kunjungi link berikut :
 
