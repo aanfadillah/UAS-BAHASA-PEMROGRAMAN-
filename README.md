@@ -17,3 +17,13 @@ Saya diberi tugas UAS ini dengan struktur sebagai berikut :
 
 [UAS PEMROGRAMAN_Aan Fadillah Putra.pdf](https://github.com/aanfadillah/UAS-BAHASA-PEMROGRAMAN-/files/10371570/UAS.PEMROGRAMAN_Aan.Fadillah.Putra.pdf)
 
+
+# Untuk penjelasan program berupa video silahkan kunjungi link berikut :
+
+https://youtu.be/6OmNxj5KbhM
+
+# Berikut tautan repository github :
+
+https://github.com/aanfadillah/UAS
+
+# ===========SEKIAN TERIMA KASIH===========
